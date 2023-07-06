@@ -4,7 +4,7 @@
 
 ### Power BI Projects
 
-[Retail Rader](/sample_page)
+[Retail Radar](/sample_page)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

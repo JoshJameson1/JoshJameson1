@@ -3,7 +3,7 @@
 ---
 
 ### Power BI Projects
-[Project 1 Title](https://www.linkedin.com/feed/update/urn:li:activity:7091730429128400896/))
+[Project 1 Title][(https://www.linkedin.com/feed/update/urn:li:activity:7091730429128400896/))](https://www.linkedin.com/pulse/hr-analytics-analysis-workforce-diversity-salary-insights-jameson%3FtrackingId=LKFQ9qAKRAq%252F22EJSJqYxg%253D%253D/?trackingId=LKFQ9qAKRAq%2F22EJSJqYxg%3D%3D)
 [HR Analytics](/sample_page)
 
 <img src="images/HR Analytics.png"/>

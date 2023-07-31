@@ -3,7 +3,7 @@
 ---
 
 ### Power BI Projects
-
+[Project 1 Title](https://www.linkedin.com/feed/update/urn:li:activity:7091730429128400896/))
 [HR Analytics](/sample_page)
 
 <img src="images/HR Analytics.png"/>

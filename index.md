@@ -3,6 +3,7 @@
 Welcome to my Data Analytics Portolio! Please have a squizz at some of my projects below and feel free to leave me some feedback! I'd love to know what you think is working, what's not and what to do about it! :)
 
 You can contact me at jamesonjoshua1@gmail.com. Look forward to hearing from you!
+
 ---
 
 ### Power BI Projects

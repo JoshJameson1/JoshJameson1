@@ -6,7 +6,7 @@
 
 [HR Analytics](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HR Analytics.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
